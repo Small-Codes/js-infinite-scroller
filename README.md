@@ -1,4 +1,1 @@
----
-permalink: /index.html
----
 # jsLazyLoad
