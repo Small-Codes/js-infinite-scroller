@@ -1,1 +1,1 @@
-# js-infinite-scroller
+# jsLazyLoad
